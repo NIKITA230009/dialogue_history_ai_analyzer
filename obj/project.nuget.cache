@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "AjYyIpJ5PKg=",
+  "success": true,
+  "projectFilePath": "C:\\C# projects\\ai_parser_2026\\ai_parser_2026.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nik-a\\.nuget\\packages\\htmlagilitypack\\1.12.4\\htmlagilitypack.1.12.4.nupkg.sha512",
+    "C:\\Users\\nik-a\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
+    "C:\\Users\\nik-a\\.nuget\\packages\\microsoft.extensions.ai.abstractions\\9.0.0-preview.9.24525.1\\microsoft.extensions.ai.abstractions.9.0.0-preview.9.24525.1.nupkg.sha512",
+    "C:\\Users\\nik-a\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.3\\microsoft.extensions.configuration.10.0.3.nupkg.sha512",
+    "C:\\Users\\nik-a\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.3\\microsoft.extensions.configuration.abstractions.10.0.3.nupkg.sha512",
+    "C:\\Users\\nik-a\\.nuget\\packages\\microsoft.extensions.configuration.binder\\10.0.3\\microsoft.extensions.configuration.binder.10.0.3.nupkg.sha512",
+    "C:\\Users\\nik-a\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\10.0.3\\microsoft.extensions.configuration.fileextensions.10.0.3.nupkg.sha512",
+    "C:\\Users\\nik-a\\.nuget\\packages\\microsoft.extensions.configuration.json\\10.0.3\\microsoft.extensions.configuration.json.10.0.3.nupkg.sha512",
+    "C:\\Users\\nik-a\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\10.0.3\\microsoft.extensions.fileproviders.abstractions.10.0.3.nupkg.sha512",
+    "C:\\Users\\nik-a\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\10.0.3\\microsoft.extensions.fileproviders.physical.10.0.3.nupkg.sha512",
+    "C:\\Users\\nik-a\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\10.0.3\\microsoft.extensions.filesystemglobbing.10.0.3.nupkg.sha512",
+    "C:\\Users\\nik-a\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.3\\microsoft.extensions.primitives.10.0.3.nupkg.sha512",
+    "C:\\Users\\nik-a\\.nuget\\packages\\ollamasharp\\4.0.6\\ollamasharp.4.0.6.nupkg.sha512",
+    "C:\\Users\\nik-a\\.nuget\\packages\\wtelegramclient\\4.4.1\\wtelegramclient.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
