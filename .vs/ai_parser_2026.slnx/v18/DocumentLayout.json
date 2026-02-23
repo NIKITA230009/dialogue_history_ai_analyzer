@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\C# projects\\ai_parser_2026\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9F8548DB-50EC-0195-B0A5-AD0799BDED25}|ai_parser_2026.csproj|c:\\c# projects\\ai_parser_2026\\git.ignore||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{9F8548DB-50EC-0195-B0A5-AD0799BDED25}|ai_parser_2026.csproj|solutionrelative:git.ignore||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{9F8548DB-50EC-0195-B0A5-AD0799BDED25}|ai_parser_2026.csproj|c:\\c# projects\\ai_parser_2026\\.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9F8548DB-50EC-0195-B0A5-AD0799BDED25}|ai_parser_2026.csproj|solutionrelative:.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9F8548DB-50EC-0195-B0A5-AD0799BDED25}|ai_parser_2026.csproj|c:\\c# projects\\ai_parser_2026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,13 +54,13 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "git.ignore",
-              "DocumentMoniker": "C:\\C# projects\\ai_parser_2026\\git.ignore",
-              "RelativeDocumentMoniker": "git.ignore",
-              "ToolTip": "C:\\C# projects\\ai_parser_2026\\git.ignore",
-              "RelativeToolTip": "git.ignore",
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\C# projects\\ai_parser_2026\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\C# projects\\ai_parser_2026\\.gitignore",
+              "RelativeToolTip": ".gitignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001407|",
               "WhenOpened": "2026-02-23T09:58:56.564Z",
               "EditorCaption": ""
             },
@@ -74,8 +74,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAADoAAAAAAAAAAAAYwFMAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T17:08:15.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T17:08:15.646Z"
             },
             {
               "$type": "Document",
